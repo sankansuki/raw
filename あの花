@@ -52,6 +52,22 @@
         "raws": "/proxy/api/imgur/chapter/DRitpFo/"
       },
       "last_updated": "1616368746"
+    },
+      "7": {
+      "title": "第七話　ほんとのお願い（前編）",
+      "volume": "2",
+      "groups": {
+        "raws": "/proxy/api/imgur/chapter/NQRcoBR/"
+      },
+      "last_updated": "1616368746"
+    },
+      "8": {
+      "title": "第八話　ほんとのお願い（後編）",
+      "volume": "2",
+      "groups": {
+        "raws": "/proxy/api/imgur/chapter/fA2BM3e/"
+      },
+      "last_updated": "1616368746"
     }
   }
 }

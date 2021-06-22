@@ -1,0 +1,41 @@
+{
+  "title": "あの日見た花の名前を僕達はまだ知らない。",
+  "description": "Menma's friends reunite five years after her death to help her remember and fulfil a wish so she can pass on into the afterlife.",
+  "artist": "泉光",
+  "author": "泉光",
+  "cover": "https://i.imgur.com/QMsUKWN.jpg",
+  "chapters": {
+      "1": {
+      "title": "第一話　超平和バスターズ",
+      "volume": "1",
+      "groups": {
+        "raws": "/proxy/api/imgur/chapter/5LBIods/"
+      },
+      "last_updated": "1616368746"
+    },
+      "2": {
+      "title": "第二話　ゆうしゃめんま",
+      "volume": "1",
+      "groups": {
+        "raws": "/proxy/api/imgur/chapter/zUTclew/"
+      },
+      "last_updated": "1616368746"
+    },
+      "3": {
+      "title": "第三話　めんまを探そうの会（前編）",
+      "volume": "1",
+      "groups": {
+        "raws": "/proxy/api/imgur/chapter/x560lsX/"
+      },
+      "last_updated": "1616368746"
+    },
+          "4": {
+      "title": "第四話　めんまを探そうの会（後編）",
+      "volume": "1",
+      "groups": {
+        "raws": "/proxy/api/imgur/chapter/jtlBQ9c/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}

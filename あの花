@@ -3,7 +3,7 @@
   "description": "Menma's friends reunite five years after her death to help her remember and fulfil a wish so she can pass on into the afterlife.",
   "artist": "泉光",
   "author": "泉光",
-  "cover": "https://i.imgur.com/QMsUKWN.jpg",
+  "cover": "https://i.imgur.com/WsJqKvO.jpg",
   "chapters": {
       "1": {
       "title": "第一話　超平和バスターズ",
@@ -66,6 +66,46 @@
       "volume": "2",
       "groups": {
         "raws": "/proxy/api/imgur/chapter/fA2BM3e/"
+      },
+      "last_updated": "1616368746"
+    },
+      "9": {
+      "title": "第九話　みんなとめんま（前編）",
+      "volume": "3",
+      "groups": {
+        "raws": "/proxy/api/imgur/chapter/NU3yGa0/"
+      },
+      "last_updated": "1616368746"
+    },
+      "10": {
+      "title": "第十話　みんなとめんま（中編）",
+      "volume": "3",
+      "groups": {
+        "raws": "/proxy/api/imgur/chapter/a62HpPN/"
+      },
+      "last_updated": "1616368746"
+    },
+      "11": {
+      "title": "第十一話　みんなとめんま（後編）",
+      "volume": "3",
+      "groups": {
+        "raws": "/proxy/api/imgur/chapter/1KNQ4e4/"
+      },
+      "last_updated": "1616368746"
+    },
+      "12": {
+      "title": "第十二話　花火",
+      "volume": "3",
+      "groups": {
+        "raws": "/proxy/api/imgur/chapter/WIunkbj/"
+      },
+      "last_updated": "1616368746"
+    },
+      "13": {
+      "title": "最終話　あの夏に咲く花",
+      "volume": "3",
+      "groups": {
+        "raws": "/proxy/api/imgur/chapter/Ljho1Nv/"
       },
       "last_updated": "1616368746"
     }

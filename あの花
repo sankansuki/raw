@@ -36,12 +36,20 @@
         "raws": "/proxy/api/imgur/chapter/jtlBQ9c/"
       },
       "last_updated": "1616368746"
-          },
+    },
       "5": {
       "title": "第五話　白の、リボンのワンピース（前編）",
       "volume": "2",
       "groups": {
         "raws": "/proxy/api/imgur/chapter/cCcBC0P/"
+      },
+      "last_updated": "1616368746"
+    },
+      "6": {
+      "title": "第六話　白の、リボンのワンピース（後編）",
+      "volume": "2",
+      "groups": {
+        "raws": "/proxy/api/imgur/chapter/DRitpFo/"
       },
       "last_updated": "1616368746"
     }
